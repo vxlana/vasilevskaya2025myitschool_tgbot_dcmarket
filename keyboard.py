@@ -8,6 +8,3 @@ b3 = KeyboardButton('Каталог товаров')
 
 start = ReplyKeyboardMarkup(resize_keyboard=True)
 start.add(b1, b2).add(b3)
-
-
-

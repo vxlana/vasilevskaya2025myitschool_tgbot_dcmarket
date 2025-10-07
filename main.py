@@ -149,4 +149,3 @@ async def echo_send(message: types.Message):
 if __name__ == '__main__':
     print('Бот запущен')
     executor.start_polling(dp, skip_updates=True)
-
