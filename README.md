@@ -14,9 +14,12 @@
 
 # 📸 Скриншоты
 
-![Главное меню бота](screenshots/main_menu.png)  
-![Каталог товаров](screenshots/catalog.png)  
-![Информация о магазине](screenshots/info.png)
+![Бот](screenshots/bot.png)  
+![Команда старт](screenshots/bot_start.png)
+![О магазине](screenshots/bot_adress.png)  
+![Каталог товаров](screenshots/catalog1.png)  
+![Каталог товаров](screenshots/catalog2.png) 
+![Каталог товаров](screenshots/catalog3.png) 
 
 ---
 
